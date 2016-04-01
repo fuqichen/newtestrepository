@@ -2,4 +2,8 @@
 newtestrepository
 haha
 
-* interesting
+<<<<<<< HEAD
+* funny
+=======
+* funny
+>>>>>>> feature1
