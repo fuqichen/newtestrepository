@@ -3,3 +3,4 @@ newtestrepository
 haha
 
 * funny
+* interesting
